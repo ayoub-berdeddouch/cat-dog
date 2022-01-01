@@ -59,12 +59,12 @@ Our model has the accuracy of **99 %** for the train dataset and **98.67 %** for
 
 ## FLASK APPLICATION
 ### Homepage
-![]()
+![](https://github.com/ayoub-berdeddouch/cat-dog/blob/main/cat_dog.PNG)
 ### Example of results
 
-![]()
+![Cat Exemple](https://github.com/ayoub-berdeddouch/cat-dog/blob/main/exp1.PNG)
 
-![]()
+![Dog Exemple](https://github.com/ayoub-berdeddouch/cat-dog/blob/main/exp2.PNG)
 
 
 
